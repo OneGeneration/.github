@@ -1,2 +1,2 @@
 # One Generation
-This is a placeholder repository.
+Welcome to GitHub!
